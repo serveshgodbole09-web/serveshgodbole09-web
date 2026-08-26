@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sarvesh Godbole 👋</h1>
+<h1 align="center">Hi, I'm Sarvesh Godbole. 👋</h1>
 <h3 align="center">Aspiring Full-Stack Developer, building with AI</h3>
 
 <p align="center">

@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
- Second-year B.Tech CSE student with a strong focus on full-stack development and AI-integrated applications
+ Third-year B.Tech CSE student with a strong focus on full-stack development and AI-integrated applications
 - 🌍 Open to internships, freelance work, and full-time roles
 - 📍 Based in Satara, Maharashtra — open to relocation (Pune / Mumbai / Bangalore)
 - 🤖 Currently expanding into Machine Learning and Python

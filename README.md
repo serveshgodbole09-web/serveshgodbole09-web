@@ -53,8 +53,8 @@
       <code>TypeScript</code>
     </td>
     <td width="50%">
-      <h4><a href="https://github.com/serveshgodbole09-web/Green-plate-kitchen">🥗 Green-plate-kitchen</a></h4>
-      A dietary-tracking web app with food nutrition analysis, backed by a Python FastAPI service and Supabase.
+      <h4><a href="https://github.com/serveshgodbole09-web/Fourthplace">🥗 FourthplaceArt Cafe</a></h4>
+     A full-stack art café website — dynamic menu, customer registration, spin-the-wheel rewards, admin dashboard, and SMS offers. Built with React + FastAPI.
       <br /><br />
       <code>JavaScript</code> <code>Python</code>
     </td>
